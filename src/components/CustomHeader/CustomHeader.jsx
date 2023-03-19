@@ -4,7 +4,7 @@ export const CustomHeader = () => {
   return (
     <Navbar bg="light" expand="lg">
       <Container>
-        <Navbar.Brand href="#">Sistema de Funcionários</Navbar.Brand>
+        <Navbar.Brand href="#">Setor de RH</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto customMenu">
