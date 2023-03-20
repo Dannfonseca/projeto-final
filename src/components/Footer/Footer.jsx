@@ -4,41 +4,30 @@ import { Link } from "react-router-dom";
 export const Footer = () => {
   const links = [
     {
-      url: "#",
-      title: "Cadastrar Clientes",
+      url: "https://github.com/Dannfonseca",
+      title: "Daniel Nascimento",
     },
     {
-      url: "#",
-      title: "Gestão de Pessoal",
+      url: "https://github.com/daillamendes",
+      title: "Dáilla Mendes",
     },
     {
-      url: "#",
-      title: "Jornadas",
+      url: "https://github.com/Larifabrahao",
+      title: "Larissa Abrahão",
     },
     {
-      url: "#",
-      title: "Cargos",
+      url: "https://github.com/GiovanniMPaula",
+      title: "Giovanni Marques",
     },
     {
-      url: "#",
-      title: "Vagas de Emprego",
+      url: "https://github.com/thaynalp",
+      title: "Thayná Lopes",
     },
     {
-      url: "#",
-      title: "Departamentos",
+      url: "https://github.com/BeatrizSales007",
+      title: "Anna Beatriz Sales",
     },
-    {
-      url: "#",
-      title: "Salários",
-    },
-    {
-      url: "#",
-      title: "Gestão de Férias",
-    },
-    {
-      url: "#",
-      title: "Gerência",
-    },
+    
   ];
   return (
     <div className="footer">
