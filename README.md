@@ -36,3 +36,11 @@ O projeto consome dados da API que foi feita por nós com node.js/express.js/cor
 <li>Larissa Abrahão</li>  
 <li>Giovanni Marques</li>  
 </ol>  
+
+
+<hr>  
+
+Link da apresentação do projeto: https://www.canva.com/design/DAFdsfqltoE/dConHfQeIgk6ZSEZ5_4aBA/view  
+
+
+Obrigado!!
